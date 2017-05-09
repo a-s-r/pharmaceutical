@@ -1,0 +1,19 @@
+{
+  "name": "pharmaceutical",
+  "version": "1.0.0",
+  "description": "Project \r Note:- purpose of this assignment is to involve all the features of angularjs \r Assignment: - project on PharmaSuiticals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-s-r/pharmaceutical.git"
+  },
+  "author": "Ajay Singh Rawat (ASR)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-s-r/pharmaceutical/issues"
+  },
+  "homepage": "https://github.com/a-s-r/pharmaceutical#readme"
+}
