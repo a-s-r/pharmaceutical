@@ -1,4 +1,4 @@
-# pharmaceutical
+# PharmaCeutical
 
 Project 
 Note:- purpose of this assignment is to involve all the features of angularjs 
