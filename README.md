@@ -98,3 +98,19 @@ how to generate GUID
 // Generate a v1 UUID (time-based) 
 2.	const uuidV1 = require('uuid/v1');
 3.	uuidV1(); // -> '6c84fb90-12c4-11e1-840d-7b25c5ee775a'
+
+
+# API
+
+# Inventory Sample
+
+{
+    "id":1,
+    "name": "Supradine",
+    "stock": 45,
+    "description": "This medicine contains multi-vitamins in it.",
+    "price": "25",
+    "manufacture_date": "01-01-2017",
+    "expire_date": "31-12-2020",
+    "status": 1
+}
