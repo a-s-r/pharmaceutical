@@ -105,10 +105,9 @@ how to generate GUID
 # Inventory Sample
 
 {
-    "id":1,
     "name": "Supradine",
     "stock": 45,
-    "description": "This medicine contains multi-vitamins in it.",
+    "description": "This medicine contains multi-vitamins.",
     "price": "25",
     "manufacture_date": "01-01-2017",
     "expire_date": "31-12-2020",
